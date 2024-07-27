@@ -1,6 +1,6 @@
-SP- São Paulo / SC - São Bento do Sul
-Sistemas de Informação - Udesc ( conclusão prevista para dezembro de 2025)
-Desenvolvedor Web
+SP- São Paulo / SC - São Bento do Sul </br>
+Sistemas de Informação - Udesc ( conclusão prevista para dezembro de 2025)</br>
+Desenvolvedor Web 
 
 <!---
 flavionesz/flavionesz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
